@@ -16,6 +16,11 @@ public class Ex01while문기초 {
 			num++;
 		}
 
+// 		while (조건) {
+//		실행할 구문
+//		}
+//		조건이 true면 실행, false면 중단
+//		break; 사용하여, 중단가능
 	}
-
+	
 }

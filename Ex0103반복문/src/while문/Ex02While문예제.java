@@ -32,24 +32,18 @@ public class Ex02While문예제 {
 //		}
 //		// 2~3구간이반복!! 10보다 큰 수를 입력하면 종료!
 //		System.out.println("종료 되었습니다.");
-		
-		
+
 		// 무한반복문
-		while(true) {
+		while (true) {
 			System.out.print("정수 입력 : ");
 			num = sc.nextInt();
-			if(num >= 10) {
+			if (num >= 10) {
 				System.out.println("종료되었습니다.");
 				break;
 			}
-			
+
 		}
-		
-		
-		
-		
-		
-		
+
 	}
 
 }
