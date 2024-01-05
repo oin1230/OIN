@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T05:48:41.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sOljEDj-ovPGVUQ0jYty" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T05:54:27.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GaCN7gnfGS4AozA50Zho" version="22.1.16" type="github">
   <diagram name="페이지-1" id="28FhHLHM85Otl7laDNYI">
-    <mxGraphModel dx="577" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,8 +382,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d6E8EPCSjX2687f4Xav2-1" value="ERD -&amp;gt; RM&lt;br&gt;entity realational diagram -&amp;gt; &lt;br&gt;realationship motel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="63" width="170" height="60" as="geometry" />
+        <mxCell id="d6E8EPCSjX2687f4Xav2-1" value="ERD -&amp;gt; RM -&amp;gt; 테이블정의서 -&amp;gt; PM&lt;br&gt;entity relational diagram -&amp;gt; &lt;br&gt;relationship motel -&amp;gt;&lt;br&gt;테이블정의서 -&amp;gt;&lt;br&gt;pysical motel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="48" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="d6E8EPCSjX2687f4Xav2-5" value="수강" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="880" width="180" height="150" as="geometry" />
@@ -472,6 +472,9 @@
             <mxPoint x="320" y="840" as="sourcePoint" />
             <mxPoint x="420" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d6E8EPCSjX2687f4Xav2-38" value="논리적인 모델링" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="357" y="1078" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
