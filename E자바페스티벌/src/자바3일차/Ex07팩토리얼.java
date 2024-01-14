@@ -10,14 +10,15 @@ public class Ex07팩토리얼 {
 		
 		System.out.print("입력 : ");
 		int input = sc.nextInt();
-		int sum = 0;
+		int sum = 1;
 		
 		for(int i = 1; i<=input ; i++) {
 			
-			
+			sum *= i;
 			
 		}
-		
+	
+		System.out.println("출력 : " + sum);
 		
 		
 	}
