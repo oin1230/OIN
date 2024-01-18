@@ -5,6 +5,8 @@ public class OOP {
 	public static void main(String[] args) {
 
 		
+		// Object Oriented Programming
+		
 		// 클래스
 		// : 객체를 만들기 위해서 만드는
 		// : 나만의 자료형 설계도면

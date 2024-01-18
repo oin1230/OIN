@@ -2,9 +2,31 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.lang.model.util.ElementScanner7"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="OOP기초.Person"/>
+    <fullyQualifiedTypeName name="PoketmonGame.Poketmon"/>
+    <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
+    <fullyQualifiedTypeName name="객체배열.Poketmon"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.nio.charset.IllegalCharsetNameException"/>
+    <fullyQualifiedTypeName name="ArrayList.Student"/>
+    <fullyQualifiedTypeName name="javazoom.jl.player.MP3Player"/>
+    <fullyQualifiedTypeName name="mp3Player.Music"/>
+    <fullyQualifiedTypeName name="MVC.MusicController"/>
+    <fullyQualifiedTypeName name="MVC.Music"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.DoubleSummaryStatistics"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="상속기초.Parent"/>
+    <fullyQualifiedTypeName name="닌텐도게임.Poketmon"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="닌텐도게임.GameChip"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.RegularEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.TempEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.PartTimeEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.Employee"/>
 </qualifiedTypeNameHistroy>
