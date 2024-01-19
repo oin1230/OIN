@@ -96,6 +96,8 @@ public class Ex01Join {
 
 			// 4. sql문 실행
 			int row = psmt.executeUpdate();
+			// 테이블에 영향을 주는 쿼리문만
+			// --> insert, delete, update (DML)
 
 			// 5. 결과를 이용한 작업처리
 			// : 사용자에게 어떤 모습을 보여주는지 정의
@@ -135,6 +137,7 @@ public class Ex01Join {
 				e.printStackTrace();
 			}
 		}
+		sc.close();
 	}
 
 }
