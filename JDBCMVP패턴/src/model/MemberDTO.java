@@ -27,6 +27,13 @@ public class MemberDTO {
 	}
 
 
+	public MemberDTO(int score, String id, String pw) {
+		this.id = id;
+		this.pw = pw;
+		this.score = score;
+	}
+
+
 	public String getId() {
 		return id;
 	}
@@ -46,6 +53,8 @@ public class MemberDTO {
 	public int getScore() {
 		return score;
 	}
+
+
 	
 
 }
