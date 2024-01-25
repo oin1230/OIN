@@ -1,4 +1,4 @@
-package mp3Player;
+	package mp3Player;
 
 import java.util.ArrayList;
 import java.util.Scanner;

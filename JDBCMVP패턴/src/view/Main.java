@@ -16,7 +16,9 @@ public class Main {
 		// Model : 데이터를 저장하거나, 조작하기 위한 코드들읨 모음
 		// View : 사용자에게 직접 보여지는 부분
 		// Controller : 실제 기능이 일어나는 부분
+		
 
+		
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("==== 빅데이터반 회원관리 프로그램 ====");
